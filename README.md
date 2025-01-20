@@ -2,6 +2,8 @@
 
 This project is an interactive 3D scene built using OpenGL. It features various lighting effects, animations, and environmental controls. Below is a detailed description of the keyboard controls and features available in the project.
 
+![Alt Text](images/view.png)
+
 ---
 
 ## Keyboard Controls
@@ -42,4 +44,6 @@ This project is an interactive 3D scene built using OpenGL. It features various 
 
 ### Automated Scene Tour
 - Press **T** to begin an automated tour of the scene. The camera will move through the scene, giving you a guided view of all the elements.
+
+![Alt Text](images/dark.png)
 
