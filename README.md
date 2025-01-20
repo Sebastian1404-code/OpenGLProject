@@ -43,14 +43,3 @@ This project is an interactive 3D scene built using OpenGL. It features various 
 ### Automated Scene Tour
 - Press **T** to begin an automated tour of the scene. The camera will move through the scene, giving you a guided view of all the elements.
 
----
-
-## Getting Started
-
-To run this project, ensure you have the necessary dependencies installed, including OpenGL and GLUT. Clone the repository and compile the source code using your preferred C++ compiler.
-
-```bash
-git clone https://github.com/yourusername/OpenGLProject.git
-cd OpenGLProject
-make
-./OpenGLProject
